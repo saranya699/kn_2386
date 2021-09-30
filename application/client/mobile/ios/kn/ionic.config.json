@@ -1,0 +1,7 @@
+{
+  "name": "kn",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
